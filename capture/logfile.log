@@ -1,0 +1,6 @@
+21:54:18.232 [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 1.75, based on libpcap version 1.10.4
+21:54:19.848 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.inet, use default value: 2
+21:54:19.848 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.inet6, use default value: 23
+21:54:19.848 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.packet, use default value: 17
+21:54:19.848 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.link, use default value: 18
+21:54:19.858 [main] INFO  org.pcap4j.core.Pcaps - 7 NIF(s) found.

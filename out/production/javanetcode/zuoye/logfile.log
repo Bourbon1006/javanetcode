@@ -1,0 +1,50 @@
+21:54:18.232 [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 1.75, based on libpcap version 1.10.4
+21:54:19.848 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.inet, use default value: 2
+21:54:19.848 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.inet6, use default value: 23
+21:54:19.848 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.packet, use default value: 17
+21:54:19.848 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.link, use default value: 18
+21:54:19.858 [main] INFO  org.pcap4j.core.Pcaps - 7 NIF(s) found.
+21:56:56.143 [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 1.75, based on libpcap version 1.10.4
+21:56:57.627 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.inet, use default value: 2
+21:56:57.628 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.inet6, use default value: 23
+21:56:57.628 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.packet, use default value: 17
+21:56:57.628 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.link, use default value: 18
+21:56:57.638 [main] INFO  org.pcap4j.core.Pcaps - 7 NIF(s) found.
+21:56:57.672 [main] INFO  org.pcap4j.core.Pcaps - 7 NIF(s) found.
+21:56:57.676 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.dlt.raw, use default value: 12
+21:56:57.866 [main] INFO  o.p.packet.factory.PacketFactories - A PacketFactoryBinderProvider implementation is found. ClassLoader: jdk.internal.loader.ClassLoaders$AppClassLoader@63947c6b, URL: file:/E:/javanetcode/lib/pcap4j-packetfactory-static-1.8.2.jar
+21:56:57.928 [main] INFO  o.p.packet.factory.PacketFactories - Succeeded in PacketFactoryBinderProvider.getBinder()
+19:10:29.632 [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 1.75, based on libpcap version 1.10.4
+19:10:31.312 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.inet, use default value: 2
+19:10:31.312 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.inet6, use default value: 23
+19:10:31.313 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.packet, use default value: 17
+19:10:31.313 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.link, use default value: 18
+19:10:31.329 [main] INFO  org.pcap4j.core.Pcaps - 8 NIF(s) found.
+19:10:31.370 [main] INFO  org.pcap4j.core.Pcaps - 8 NIF(s) found.
+19:10:31.378 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.dlt.raw, use default value: 12
+19:10:32.259 [main] INFO  o.p.packet.factory.PacketFactories - A PacketFactoryBinderProvider implementation is found. ClassLoader: jdk.internal.loader.ClassLoaders$AppClassLoader@63947c6b, URL: file:/E:/javanetcode/lib/pcap4j-packetfactory-static-1.8.2.jar
+19:10:32.344 [main] INFO  o.p.packet.factory.PacketFactories - Succeeded in PacketFactoryBinderProvider.getBinder()
+21:03:56.297 [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 1.75, based on libpcap version 1.10.4
+21:03:57.937 [main] WARN  org.pcap4j.core.Pcaps - Error calling PacketRequest: Couldn't get error message for error (3758096571)
+21:03:57.975 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.inet, use default value: 2
+21:03:57.975 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.inet6, use default value: 23
+21:03:57.975 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.packet, use default value: 17
+21:03:57.975 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.link, use default value: 18
+21:03:57.997 [main] INFO  org.pcap4j.core.Pcaps - 10 NIF(s) found.
+21:03:58.041 [main] WARN  org.pcap4j.core.Pcaps - Error calling PacketRequest: Couldn't get error message for error (3758096571)
+21:03:58.061 [main] INFO  org.pcap4j.core.Pcaps - 10 NIF(s) found.
+21:03:58.068 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.dlt.raw, use default value: 12
+21:03:58.819 [main] INFO  o.p.packet.factory.PacketFactories - A PacketFactoryBinderProvider implementation is found. ClassLoader: jdk.internal.loader.ClassLoaders$AppClassLoader@63947c6b, URL: file:/E:/javanetcode/lib/pcap4j-packetfactory-static-1.8.2.jar
+21:03:58.907 [main] INFO  o.p.packet.factory.PacketFactories - Succeeded in PacketFactoryBinderProvider.getBinder()
+21:15:52.373 [main] INFO  org.pcap4j.core.NativeMappings - Pcap4J successfully loaded a native pcap library: Npcap version 1.75, based on libpcap version 1.10.4
+21:15:54.397 [main] WARN  org.pcap4j.core.Pcaps - Error calling PacketRequest: Couldn't get error message for error (3758096571)
+21:15:54.428 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.inet, use default value: 2
+21:15:54.429 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.inet6, use default value: 23
+21:15:54.429 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.packet, use default value: 17
+21:15:54.429 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.af.link, use default value: 18
+21:15:54.447 [main] INFO  org.pcap4j.core.Pcaps - 10 NIF(s) found.
+21:15:54.482 [main] WARN  org.pcap4j.core.Pcaps - Error calling PacketRequest: Couldn't get error message for error (3758096571)
+21:15:54.513 [main] INFO  org.pcap4j.core.Pcaps - 10 NIF(s) found.
+21:15:54.519 [main] INFO  org.pcap4j.util.PropertiesLoader - [org/pcap4j/pcap4j.properties] Could not get value by org.pcap4j.dlt.raw, use default value: 12
+21:15:54.638 [main] INFO  o.p.packet.factory.PacketFactories - A PacketFactoryBinderProvider implementation is found. ClassLoader: sun.misc.Launcher$AppClassLoader@7852e922, URL: file:/e:/javanetcode/lib/pcap4j-packetfactory-static-1.8.2.jar
+21:15:54.794 [main] INFO  o.p.packet.factory.PacketFactories - Succeeded in PacketFactoryBinderProvider.getBinder()
